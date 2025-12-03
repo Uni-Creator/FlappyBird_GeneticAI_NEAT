@@ -92,7 +92,7 @@ Here are some observations:
 
 - **Partial Connections**: I tried different partial connection fractions like `0.0`, `0.1`, and `0.5`, but the results were similar to the baseline.
 
-- **Crash Issue**: When I manually removed the `y` position from the input, the model crashed. I’m not sure why it crashes, so if anyone knows the cause, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/singhrabhay) or [Gmail](mailto\:abhayr24564@gmail.com), or you can raise a pull request to fix it.
+- **Crash Issue**: When I manually removed the `y` position from the input, the model crashed. I’m not sure why it crashes, so if anyone knows the cause, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/singhrabhay) or [Gmail](mailto\:uni.creator001@gmail.com), or you can raise a pull request to fix it.
 
 - **Full Connections**: Setting the connections to **full** causes the model to learn much faster, reaching the goal in just 3 or so generations. However, I prefer the model to be more efficient by reducing the number of inputs needed.
 
@@ -107,3 +107,4 @@ Here are some observations:
 This project is licensed under the **MIT License**.
 
 Feel free to use and modify this project. Contributions are welcome!
+
